@@ -1,0 +1,3 @@
+C:/Users/tmade/CLionProjects/CppSudoku/cmake-build-debug/CMakeFiles/CppSudoku.dir
+C:/Users/tmade/CLionProjects/CppSudoku/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tmade/CLionProjects/CppSudoku/cmake-build-debug/CMakeFiles/rebuild_cache.dir

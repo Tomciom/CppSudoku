@@ -1,0 +1,16 @@
+"C:\Program Files (x86)\JetBrains\CLion 2023.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files (x86)/JetBrains/CLion 2023.2/bin/ninja/win/x64/ninja.exe" CMAKE_INCLUDE_PATH = 'C:\dev\curl\include', CMAKE_LIBRARY_PATH = 'C:\dev\curl\library' -G Ninja -S C:\Users\tmade\CLionProjects\CppSudoku -B C:\Users\tmade\CLionProjects\CppSudoku\cmake-build-debug
+CMake Warning:
+  Ignoring extra path from command line:
+
+   "C:/Users/tmade/CLionProjects/CppSudoku/cmake-build-debug/CMAKE_INCLUDE_PATH"
+
+
+CMake Warning:
+  Ignoring extra path from command line:
+
+   "'C:\dev\curl\library'"
+
+
+-- Configuring done (0.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/tmade/CLionProjects/CppSudoku/cmake-build-debug
